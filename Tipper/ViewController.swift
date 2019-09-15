@@ -32,7 +32,6 @@ class ViewController: UIViewController {
         //changes text to a number
         //logic: if thing on the left isn't valid -> return 0
         let bill = Double(billField.text!) ?? 0
-        //Testing comment
      
         //Calculate the tip and total
         let tipPercentages = [0.15,0.18,0.2]
