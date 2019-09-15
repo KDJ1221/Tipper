@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Some challenges I experienced when developing the app:
 - Using Xcode for source control, had many errors reference a missing 'HEAD', but resolved this by just committing and pushing all changes through the command line
-- There would be times in which the keyboard would stop working automatically in which I had to occasionally change the hardware settings of the simulator, and even test out the app on different devices
+- There would be times in which the keyboard would stop working automatically in which I had to occasionally change the hardware settings of the simulator, and even test out the app on different devices. Right now the keyboard does not work very well for the iPhone 8 plus unless the hardware and keyboard settings are adjusted manually
 
 ## License
 
