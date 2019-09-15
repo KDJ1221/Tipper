@@ -1,8 +1,8 @@
 # Pre-work - Tipper
 
-**Name of your app** is a tip calculator application for iOS.
+Tipper is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Kimmiko James
 
 Time spent: **X** hours spent in total
 
@@ -10,7 +10,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -33,7 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I experienced when developing the app:
+- Using Xcode for source control, had many errors reference a missing 'HEAD', but resolved this by just committing and pushing all changes through the command line
 
 ## License
 
