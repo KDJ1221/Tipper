@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    //NOTE: could try and save data by setting user defaults in settingsView file
+    //then load and retrieve it in tipView file -> update the tip amount
+    
     //provided methods for console output testing
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
