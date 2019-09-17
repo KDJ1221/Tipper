@@ -137,11 +137,12 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="C6D-v8-a9U">
-                                <rect key="frame" x="125" y="217" width="121" height="28"/>
+                                <rect key="frame" x="78" y="213" width="258" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="First"/>
-                                    <segment title="Second"/>
+                                    <segment title="15%"/>
+                                    <segment title="18%"/>
+                                    <segment title="20%"/>
                                 </segments>
                             </segmentedControl>
                         </subviews>
@@ -151,7 +152,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hrH-b5-WMp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2445" y="105"/>
+            <point key="canvasLocation" x="2444.9275362318845" y="104.46428571428571"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="jHc-nx-JRc">
