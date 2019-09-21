@@ -38,6 +38,8 @@ class SettingsViewController: UIViewController {
             break
         }
         
+        UserDefaults.standard.synchronize()
+        
     }
     
     
