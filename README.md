@@ -23,6 +23,7 @@ The following **additional** features are implemented:
 
 - [X] Added splash screen
 - [X] General settings page
+- [] Currently in the process of improving UI
 
 ## Video Walkthrough 
 
