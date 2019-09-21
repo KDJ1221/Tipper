@@ -35,7 +35,7 @@ GIF created with GIPHY CAPTURE
 Some challenges I experienced when developing the app:
 - Using Xcode for source control, had many errors reference a missing 'HEAD', but resolved this by just committing and pushing all changes through the command line.
 - There would be (many) times in which the keyboard would stop working automatically in which I had to occasionally change the hardware settings of the simulator, and even test out the app on different devices. Right now the keyboard does not work very well for the iPhone 8 plus unless the hardware and keyboard settings are adjusted manually.
-- I really struggled with figuring out how to create a working settings page that would update the tip percentage based on the selected default segment. I generally understand the concept of how UserDefaults work in terms of saving/loading data, however things got tricky when it involved updating the specific segment indexes.
+- I really struggled with figuring out how to create a working settings page that would update the tip percentage based on the selected default segment. I generally understand the concept of how UserDefaults work in terms of saving/loading data, however things got tricky when it involved updating the specific segment indexes. I tried using a switch function in my settingsViewController for the different segment values, but was unsure of how to implement the user defaults in the main view controller.
 - I also had some issues with using Recordit, but resolved this issue by just using Giphy Capture instead.
 
 ## License
