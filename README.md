@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://www.giphy.com/gifs/MagoGVDtMoP3bdSxZJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a quick walkthrough of my app: http://www.giphy.com/gifs/MagoGVDtMoP3bdSxZJ
 
 GIF created with GIPHY CAPTURE
 
